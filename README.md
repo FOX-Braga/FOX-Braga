@@ -1,7 +1,7 @@
 ## Opa 👋
 
 - 🔭 Atualmente trabalho como Dev FULL-STACK
-- 🌱 1 semestre de TSI-IFMS
+- 🌱 2 semestre de TSI-IFMS
 - 😄 Pronouns: ELE/DELE
 -->
 <br>
